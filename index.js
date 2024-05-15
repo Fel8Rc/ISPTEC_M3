@@ -1,3 +1,1 @@
-Ola
-
-Mais
+console.log
